@@ -1,5 +1,4 @@
 import json
-import uuid
 from confluent_kafka import Consumer
 
 consumer_config = {
